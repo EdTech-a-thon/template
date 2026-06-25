@@ -71,6 +71,7 @@ When the human has not specified a choice and there is no particular benefit to 
 - Framework: SvelteKit if using Svelte or Astro if not
 - UI Library: Svelte
 - UI / Styling: Tailwind CSS
+- UI Rendering Method: Prefer DOM elements over canvas when possible for the sake of accessibility, using canvas only when it is unreasonable not to
 - Database: Prefer localStorage if user accounts or persistence are not strictly necessary, otherwise SQLite
 - ORM: Drizzle (only if needed)
 
