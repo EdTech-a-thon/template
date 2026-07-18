@@ -5,8 +5,6 @@ This project is a prototype to be completed during the 3-day "EdTech-a-thon" eve
 - All code belongs in a git repo at `~/code` aka `/home/exedev/code`
 - Every project is a sub-directory within `~/code`. Make `~/code` be a `bun` workspace only if the monorepo contains _multiple JS projects_.
 
-> **Templated values:** This file uses `{{LIVE_WEBSITE_URL}}` and `{{EDIT_WEBSITE_URL}}` as placeholders. They are filled in per team before you read this file. Whenever you share a link with the user, use these values — never `localhost` or a port number.
-
 ## General Instructions
 
 - Write simple code
