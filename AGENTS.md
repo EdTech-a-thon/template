@@ -14,6 +14,7 @@ This project is a prototype to be completed during the 3-day "EdTech-a-thon" eve
 - Write code that is self-documenting
 - If the product requirements are unclear, ask the human instead of guessing
 - You are building a high-fidelity prototype
+- **Keep edits small and incremental.** Make each change as small and manageable as possible rather than writing or rewriting large chunks at once. Break big changes into a series of small edits/patches. This keeps the work easy to follow and review, and it also avoids tool calls stalling on large responses (oversized edits can hit packet-size/timeout limits and cause the model to hang mid-change).
 
 ## Communication Style
 
